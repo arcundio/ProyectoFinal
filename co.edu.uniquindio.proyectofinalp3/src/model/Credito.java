@@ -3,9 +3,9 @@ package model;
 
 public class Credito {
 	
-	private String nombre, lugar;
-	private int codigo, duracionHoras, cupoMaximo;
-	private Instructor instructor;
+	protected String nombre, lugar;
+	protected int codigo, duracionHoras, cupoMaximo;
+	protected Instructor instructor;
 	
 	
 	public String getNombre() {
