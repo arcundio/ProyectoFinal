@@ -1,5 +1,8 @@
 package model;
 
-public class Instructor {
+import java.util.ArrayList;
 
+public class Instructor {
+	
+	
 }
