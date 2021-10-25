@@ -6,6 +6,7 @@ public class Credito {
 	protected String nombre, lugar;
 	protected int codigo, duracionHoras, cupoMaximo;
 	protected Instructor instructor;
+	protected Horario horario;
 	
 	
 	public String getNombre() {
